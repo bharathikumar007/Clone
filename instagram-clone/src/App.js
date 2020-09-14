@@ -8,6 +8,7 @@ function App() {
 
       <div className="app__header">
         <p>Going to make this some time</p>
+        <h3>fasty</h3>
       </div>
     </div>
   );
